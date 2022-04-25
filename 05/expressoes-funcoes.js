@@ -4,11 +4,11 @@
 // }
 
 
-// expressão de fufnção
-// const soma = function(num1, num2){ return num1 + num2}
+// expressão de função
+// const soma = function(num1, num2){return num1 + num2}
 // console.log(soma(1,1))
 
-// diferença principal : HOISTING
+// diferença principal: HOISTING
 // funções e variaveis sao "listadas" no topo do arquivo.
 console.log(apresentar())
 
